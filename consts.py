@@ -1,0 +1,10 @@
+FTP_HOST = "ftp20.hostland.ru"
+FTP_USER = "host1825032_python"
+FTP_PASSWORD = "dPL4phDp"
+TMP_FOLDER_NAME = "tmp"
+TMP_FILE_NAME = "tmp_photo"
+DATA_FILE_NAME = "goods.csv"
+CATEGORY_PAGE_URL = "https://www.glz-centrolit.by/production/category/view/"
+DOMAIN_URL = "https://www.glz-centrolit.by"
+OUR_DOMAIN_URL = "https://www.glz-centrolit.ru"
+
